@@ -1,0 +1,26 @@
+﻿<svg width="560" height="190" viewBox="0 0 560 190" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #0f172a; }
+    .title { font: 600 18px "Segoe UI", Arial, sans-serif; fill: #bae6fd; }
+    .label { font: 600 14px "Segoe UI", Arial, sans-serif; fill: #cbd5f5; }
+    .value { font: 700 28px "Segoe UI", Arial, sans-serif; fill: #f8fafc; }
+  </style>
+  <rect width="560" height="190" rx="18" class="card" />
+  <text x="30" y="45" class="title">GitHub Overview · Snapshot</text>
+  <g transform="translate(30,80)">
+    <text class="label" x="0" y="0">Public Repos</text>
+    <text class="value" x="0" y="34">32</text>
+  </g>
+  <g transform="translate(210,80)">
+    <text class="label" x="0" y="0">Contributions (2025)</text>
+    <text class="value" x="0" y="34">1,240</text>
+  </g>
+  <g transform="translate(390,80)">
+    <text class="label" x="0" y="0">Followers</text>
+    <text class="value" x="0" y="34">180</text>
+  </g>
+  <g transform="translate(30,140)">
+    <text class="label" x="0" y="0">Highlights</text>
+    <text class="title" x="0" y="32">Hackathon builds · Backend systems · OSS APIs</text>
+  </g>
+</svg>

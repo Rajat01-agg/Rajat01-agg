@@ -1,0 +1,24 @@
+﻿<svg width="560" height="200" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #0f172a; }
+    .title { font: 600 18px "Segoe UI", Arial, sans-serif; fill: #bae6fd; }
+    .label { font: 600 14px "Segoe UI", Arial, sans-serif; fill: #cbd5f5; }
+    .value { font: 700 48px "Segoe UI", Arial, sans-serif; fill: #fbbf24; }
+    .sub { font: 600 14px "Segoe UI", Arial, sans-serif; fill: #f8fafc; }
+  </style>
+  <rect width="560" height="200" rx="18" class="card" />
+  <text x="30" y="45" class="title">Commit Consistency · Rolling Streak</text>
+  <g transform="translate(30,80)">
+    <text class="label" x="0" y="0">Current streak</text>
+    <text class="value" x="0" y="70">21</text>
+  </g>
+  <g transform="translate(150,80)">
+    <text class="label" x="0" y="0">Best streak</text>
+    <text class="value" x="0" y="70" fill="#34d399">45</text>
+  </g>
+  <g transform="translate(300,80)">
+    <text class="label" x="0" y="0">Longest gap (days)</text>
+    <text class="value" x="0" y="70" fill="#f87171">4</text>
+  </g>
+  <text class="sub" x="30" y="170">Updated manually · Highlighting consistent daily contributions across MERN + Python repos</text>
+</svg>

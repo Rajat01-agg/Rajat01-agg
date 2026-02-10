@@ -1,0 +1,41 @@
+﻿<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #0f172a; }
+    .title { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #e0f2fe; }
+    .label { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #cbd5f5; }
+    .percent { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #f8fafc; }
+    .track { fill: #1f2937; }
+  </style>
+  <rect width="560" height="260" rx="18" class="card" />
+  <text x="30" y="45" class="title">Top Languages · Snapshot</text>
+  <g transform="translate(30,75)">
+    <text class="label" x="0" y="10">JavaScript</text>
+    <text class="percent" x="440" y="10">35%</text>
+    <rect class="track" x="0" y="18" width="440" height="12" rx="6" />
+    <rect fill="#3b82f6" x="0" y="18" width="154" height="12" rx="6" />
+  </g>
+  <g transform="translate(30,115)">
+    <text class="label" x="0" y="10">TypeScript</text>
+    <text class="percent" x="440" y="10">20%</text>
+    <rect class="track" x="0" y="18" width="440" height="12" rx="6" />
+    <rect fill="#38bdf8" x="0" y="18" width="88" height="12" rx="6" />
+  </g>
+  <g transform="translate(30,155)">
+    <text class="label" x="0" y="10">Python</text>
+    <text class="percent" x="440" y="10">18%</text>
+    <rect class="track" x="0" y="18" width="440" height="12" rx="6" />
+    <rect fill="#f97316" x="0" y="18" width="79" height="12" rx="6" />
+  </g>
+  <g transform="translate(30,195)">
+    <text class="label" x="0" y="10">C++</text>
+    <text class="percent" x="440" y="10">15%</text>
+    <rect class="track" x="0" y="18" width="440" height="12" rx="6" />
+    <rect fill="#1e40af" x="0" y="18" width="66" height="12" rx="6" />
+  </g>
+  <g transform="translate(30,235)">
+    <text class="label" x="0" y="10">Java</text>
+    <text class="percent" x="440" y="10">12%</text>
+    <rect class="track" x="0" y="18" width="440" height="12" rx="6" />
+    <rect fill="#fbbf24" x="0" y="18" width="53" height="12" rx="6" />
+  </g>
+</svg>

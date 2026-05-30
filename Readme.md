@@ -38,87 +38,185 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 - 🧠 System Design, AI Governance, Large-Scale Systems
 - 📈 DSA & problem-solving consistency
 
----
+- 🏆 Smart India Hackathon 2025 Runner-Up | Led GIS mapping & Backend development
 
-## 🏆 Hackathons & Key Projects
+- 🔭 Government Hackathons Champion - Top-5 Finalist in Hack4Delhi (GoI) & SIH'25
 
-<div>
-
-### 🛡️ DefendX — Automated SOC Security Engine
-
-**Live Link:** [defend-x.vercel.app](https://defend-x.vercel.app/)
-
-**Problem Statement**
-- Security teams need fast, automated detection and response across noisy log streams, but manual triage is too slow for real-time threats.
-
-**Solution & Features**
-- DefendX is an autonomous SOC defense platform that ingests logs, analyzes threats with AI, and triggers remediation actions in seconds.
-- Ingests `http`, `infra`, and `auth` logs for continuous security analysis
-- Detects brute force attacks, port scans, and resource exhaustion with AI-assisted triage
-- Automatically blocks IPs, applies rate limits, and alerts SOC teams when action is needed
-- Streams live job progress over WebSockets with Slack, Jira, and email notifications
-- Stores findings, actions, reports, and job history through Prisma and PostgreSQL
-
-**Tech Stack**
-`Node.js` · `Express` · `PostgreSQL` · `Prisma` · `WebSockets` (`ws`) · `OpenRouter` / LLMs · `Loki` · `Nodemailer` · `Axios`
 
 ---
+## 🚀 Featured Projects
 
-### 🔬 Aadhaar Intelligence System
+> **🌟 Showcasing my top work across hackathons, governance, and applied systems**
 
-**Live Link:** [uidai-intelligence-dashboard-kgoq.vercel.app](https://uidai-intelligence-dashboard-kgoq.vercel.app/)
+<br/>
 
-**Problem Statement**
-- Aadhaar-related operational data is often fragmented, making it hard to spot anomalies, track risk, and generate actionable policy insights quickly.
+### 🥇 **HACKATHON PROJECTS**
 
-**Solution & Features**
-- A multi-channel intelligence platform that combines ML, dashboards, and automated reporting to turn raw Aadhaar data into clear decision support.
-- Ensemble-based anomaly detection using Z-Score, IQR, and Isolation Forest
-- Real-time dashboards with heatmaps, trends, and KPI monitoring
-- Policy intelligence and report generation for actionable governance insights
-- Secure multi-interface access across backend, frontend, landing page, and mobile app
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack**
-`Python` · `Machine Learning` · `Node.js` · `NeonDB`
+## 🏆 1. DefendX — Automated SOC Security Engine
+### 🥇 **Autonomous security response platform**
 
----
+<div align="center">
 
-### 🆔 SAKSHAM — Smart India Hackathon (SIH)
-
-**Problem Statement**
-- Disaster management teams need a reliable way to track training, collect field data, and generate policy-ready outputs from one place.
-
-**Solution & Features**
-- SAKSHAM centralizes disaster-management workflows with backend APIs, analytics, and automated reporting.
-- Centralized data ingestion for field operations
-- ML-based anomaly & trend detection
-- Backend APIs with secure role-based access
-- Automated, policy-ready PDF report generation
-
-**Tech Stack**
-`Node.js` · `Express` · `MongoDB` · `Python` · `Machine Learning`
-
----
-
-### 🧭 Wanderlust — Travel Listing Platform
-
-**Live Link:** [tripnest-nb7z.onrender.com](https://tripnest-nb7z.onrender.com/)
-
-**Problem Statement**
-- Travel discovery platforms need smooth search, secure listing management, and reliable media handling without sacrificing scalability.
-
-**Solution & Features**
-- Wanderlust is a travel listing platform focused on discovery, secure uploads, and authenticated user flows.
-- Map-based location discovery & search
-- Image uploads with secure storage
-- Authentication & authorization
-- Scalable backend architecture
-
-**Tech Stack**
-`Node.js` · `Express` · `MongoDB` · `EJS` · `Mapbox` · `Cloudinary`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 </div>
 
+**🎯 AI-assisted SOC defense for real-time log monitoring**
+
+#### 💡 Innovation Highlights:
+- 🧠 Ingests security logs and applies AI-assisted triage for threats
+- ⚡ Automates remediation actions for faster incident response
+- 📡 Streams live job progress with WebSocket updates
+- 🗂️ Stores findings, actions, and job history through Prisma and PostgreSQL
+
+#### 📈 Real-World Impact:
+> **Built to help security teams reduce manual triage and respond to threats faster**
+
+**Tech Stack:** `Node.js` `Express` `PostgreSQL` `Prisma` `WebSockets`
+
+<a href="https://defend-x.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/Rajat01-agg/defend-x"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+## 🏆 2. SAKSHAM — Smart India Hackathon (SIH)
+### 🥈 **Disaster-management workflows & reporting**
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+**🎯 Centralized APIs and analytics for disaster-response operations**
+
+#### 💡 Innovation Highlights:
+- 🧭 Tracks training, field data, and policy-ready reports in one place
+- 📊 Supports coordination of disaster-management workflows through backend APIs
+- 🛠️ Built with both backend services and analysis workflows
+- 🧩 Designed for response-oriented reporting and operational visibility
+
+#### 📈 Real-World Impact:
+> **Built to support large-scale disaster-management coordination and reporting**
+
+**Tech Stack:** `Node.js` `Express` `MongoDB` `Python`
+
+<a href="https://github.com/Rajat01-agg/Saksham-NDMA"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🏆 3. Aadhaar Intelligence System
+### 🥉 **Decision support dashboard for Aadhaar operations**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+**🎯 ML-driven anomaly detection and reporting for governance insights**
+
+#### 💡 Innovation Highlights:
+- 🔍 Combines ML anomaly detection with dashboards and reporting
+- 📊 Processes operational data for governance insights
+- 📈 Highlights irregularities through statistical and ML-based analysis
+- 📝 Designed for structured intelligence reporting
+
+#### 📈 Real-World Impact:
+> **Built to identify anomalies and support governance decision-making**
+
+**Tech Stack:** `Python` `Machine Learning` `Node.js` `NeonDB`
+
+<a href="https://uidai-intelligence-dashboard-kgoq.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/Rajat01-agg/UIDAI-INTELLIGENCE-DASHBOARD"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+## 🏆 4. Delhi Pollution Control Command Center
+### 🏅 **Real-time governance dashboard for air quality crises**
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+</div>
+
+**🎯 DPCC dashboard for monitoring air quality and coordinating emergency response**
+
+#### 💡 Innovation Highlights:
+- 🌍 Monitors real-time AQI across Delhi wards with live heat maps
+- 🚨 Tracks GRAP compliance and emergency response directives
+- 📢 Supports citizen communication during air quality crises
+- 📋 Exports situation reports and leadership briefings
+
+#### 📈 Real-World Impact:
+> **Built for the Delhi Pollution Control Committee to coordinate city-scale pollution response**
+
+**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Leaflet` `Recharts`
+
+<a href="https://delhi-pollution-goverment-portal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/Rajat01-agg/delhi-pollution-command-center"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌟 **OTHER IMPACTFUL PROJECTS**
+
+<table>
+<tr>
+<td colspan="2">
+
+### 🧭 Wanderlust — Travel Listing Platform
+**Map-based travel discovery and listing app**
+
+**Secure search, uploads, and authenticated user flows**
+
+- 🗺️ Map-based location discovery and search
+- 🖼️ Image uploads with secure cloud storage
+- 🔐 Authentication and authorization
+- ⚙️ Scalable backend architecture
+
+**Stack:** `Node.js` `Express` `MongoDB` `EJS` `Mapbox` `Cloudinary`
+
+<a href="https://tripnest-nb7z.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/Rajat01-agg/Wanderlust"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📂 **Explore More on GitHub**
+
+<a href="https://github.com/Rajat01-agg?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories_→-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 <h2>🛠 Tech Stack</h2>
 
 <p align="center"><strong>💻 Languages</strong></p>

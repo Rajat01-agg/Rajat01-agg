@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rajat+Aggarwal+%F0%9F%91%8B;Full+Stack+Developer+%7C+Backend+%26+Systems;Smart+India+Hackathon+%28SIH%29+Participant;Building+Scalable+Real-World+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rajat+Aggarwal+%F0%9F%91%8B;Full+Stack+Developer+%7C+Backend+%26+Systems;Smart+India+Hackathon+%28SIH%29+Finalist;Building+Secure+Scalable+Real-World+Systems" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
   <a href="mailto:rajataggarwal20820@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/-aggarwal-rajat-">
+  <a href="https://linkedin.com/in/aggarwal-rajat-">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -36,18 +36,60 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 - 🔭 Backend & Full Stack projects (MERN)
 - 🌱 Advanced Backend, Databases, ML Foundations
 - 🧠 System Design, AI Governance, Large-Scale Systems
-- 🏆 **SAKSHAM — Smart India Hackathon Project (NDMA Use-case)**
 - 📈 DSA & problem-solving consistency
 
 ---
 
 ## 🏆 Hackathons & Key Projects
 
+<div>
+
+### 🛡️ DefendX — Automated SOC Security Engine
+
+**Live Link:** [defend-x.vercel.app](https://defend-x.vercel.app/)
+
+**Problem Statement**
+- Security teams need fast, automated detection and response across noisy log streams, but manual triage is too slow for real-time threats.
+
+**Solution & Features**
+- DefendX is an autonomous SOC defense platform that ingests logs, analyzes threats with AI, and triggers remediation actions in seconds.
+- Ingests `http`, `infra`, and `auth` logs for continuous security analysis
+- Detects brute force attacks, port scans, and resource exhaustion with AI-assisted triage
+- Automatically blocks IPs, applies rate limits, and alerts SOC teams when action is needed
+- Streams live job progress over WebSockets with Slack, Jira, and email notifications
+- Stores findings, actions, reports, and job history through Prisma and PostgreSQL
+
+**Tech Stack**
+`Node.js` · `Express` · `PostgreSQL` · `Prisma` · `WebSockets` (`ws`) · `OpenRouter` / LLMs · `Loki` · `Nodemailer` · `Axios`
+
+---
+
+### 🔬 Aadhaar Intelligence System
+
+**Live Link:** [uidai-intelligence-dashboard-kgoq.vercel.app](https://uidai-intelligence-dashboard-kgoq.vercel.app/)
+
+**Problem Statement**
+- Aadhaar-related operational data is often fragmented, making it hard to spot anomalies, track risk, and generate actionable policy insights quickly.
+
+**Solution & Features**
+- A multi-channel intelligence platform that combines ML, dashboards, and automated reporting to turn raw Aadhaar data into clear decision support.
+- Ensemble-based anomaly detection using Z-Score, IQR, and Isolation Forest
+- Real-time dashboards with heatmaps, trends, and KPI monitoring
+- Policy intelligence and report generation for actionable governance insights
+- Secure multi-interface access across backend, frontend, landing page, and mobile app
+
+**Tech Stack**
+`Python` · `Machine Learning` · `Node.js` · `NeonDB`
+
+---
+
 ### 🆔 SAKSHAM — Smart India Hackathon (SIH)
 
-**Problem Domain:** Disaster Management & Training Monitoring (NDMA)
+**Problem Statement**
+- Disaster management teams need a reliable way to track training, collect field data, and generate policy-ready outputs from one place.
 
-**Key Features**
+**Solution & Features**
+- SAKSHAM centralizes disaster-management workflows with backend APIs, analytics, and automated reporting.
 - Centralized data ingestion for field operations
 - ML-based anomaly & trend detection
 - Backend APIs with secure role-based access
@@ -60,7 +102,13 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 
 ### 🧭 Wanderlust — Travel Listing Platform
 
-**Key Features**
+**Live Link:** [tripnest-nb7z.onrender.com](https://tripnest-nb7z.onrender.com/)
+
+**Problem Statement**
+- Travel discovery platforms need smooth search, secure listing management, and reliable media handling without sacrificing scalability.
+
+**Solution & Features**
+- Wanderlust is a travel listing platform focused on discovery, secure uploads, and authenticated user flows.
 - Map-based location discovery & search
 - Image uploads with secure storage
 - Authentication & authorization
@@ -69,22 +117,11 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 **Tech Stack**
 `Node.js` · `Express` · `MongoDB` · `EJS` · `Mapbox` · `Cloudinary`
 
----
+</div>
 
-### 🔬 Aadhaar Intelligence System
+<h2>🛠 Tech Stack</h2>
 
-**Key Features**
-- Ensemble-based anomaly detection
-- Trend & seasonal pattern analysis
-- Governance-ready dashboards & reports
-- Data-driven risk scoring
-
-**Tech Stack**
-`Python` · `Machine Learning` · `Node.js` · `NeonDB`
-
-## 🛠 Tech Stack
-
-### 💻 Languages
+<p align="center"><strong>💻 Languages</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
@@ -96,7 +133,7 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 
 ---
 
-### 🎨 Frontend
+<p align="center"><strong>🎨 Frontend</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
@@ -107,7 +144,7 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 
 ---
 
-### 🧩 Backend & Databases
+<p align="center"><strong>🧩 Backend & Databases</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white" alt="Express" />
@@ -120,7 +157,7 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 
 ---
 
-### 🤖 AI / ML
+<p align="center"><strong>🤖 AI / ML</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
@@ -131,7 +168,7 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 
 ---
 
-### ☁️ Tools & Platforms
+<p align="center"><strong>☁️ Tools & Platforms</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -150,7 +187,7 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 
 | 🚀 Domain | 💡 Focus | 🔍 Details |
 |--------|--------|----------|
-| 🤖 **AI Agents** | Intelligent automation | Generative and Agentic AI, Automation |
+| 🤖 **ML Models** | Intelligent Models | Based on Statistics and Core ML  |
 | 🌐 **Full-Stack** | End-to-end systems | Scalable backend-first architectures |
 | 🔐 **Security** | Secure design mindset | Vulnerability analysis & best practices |
 | 🔐 **Scalability** | Scalable Systems | End-to-End Approach using Caching etc. |
@@ -160,33 +197,39 @@ Actively involved in **hackathons**, system-level projects, and continuous learn
 
 ## 📊 GitHub Analytics
 
-<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat01-agg&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat01-agg&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=ff6b6b&point=58a6ff" width="60%" />
 </p>
 
----
 
-<!-- GitHub Stats + Streak -->
+<details>
+<summary><b>📈 More Detailed Analytics</b></summary>
+<br/>
+
 <p align="center">
-  <img width="49%" src="./assets/github-stats.svg" alt="GitHub overview snapshot" />
-  <img width="49%" src="./assets/github-streak.svg" alt="Commit streak snapshot" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajat01-agg&theme=tokyonight" width="100%" />
 </p>
 
----
-
-<!-- Languages -->
 <p align="center">
-  <img width="45%" src="./assets/top-langs.svg" alt="Top languages snapshot" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajat01-agg&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajat01-agg&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajat01-agg&theme=tokyonight" width="32%" />
 </p>
 
----
-
-<!-- Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajat01-agg&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Rajat01-agg?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Rajat01-agg?label=Total%20Stars&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rajat01-agg&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rajat01-agg?style=for-the-badge&color=58a6ff" alt="GitHub followers" />
+</p>
+
+</details>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  💼 Open to internship opportunities in AI/ML & Full-Stack Development
+</p>
+<p align="center">
+  📫 Reach out to me at <a href="mailto:rajataggarwal20820@gmail.com">rajataggarwal20820@gmail.com</a>
 </p>
 
 ---
